@@ -2,10 +2,10 @@
 
 #include "useThread.h"
 
-int main(int argc, char *argv[])
-{
-    std::cout << "Start ..." << std::endl;
-    test_MemoryQue();
+int main(int argc, char *argv[]) {
+  std::cout << "Start ..." << std::endl;
 
-    return 0;
+  test_MemoryQue();
+
+  return 0;
 }
